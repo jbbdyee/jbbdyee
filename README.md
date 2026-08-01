@@ -10,7 +10,7 @@
 
 ## 📚 Learning Roadmap  
 
-" 학습 진행 현황 "
+학습 진행 현황
 
 - [x] Git / GitHub
 - [x] Python
