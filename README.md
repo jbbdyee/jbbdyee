@@ -19,8 +19,8 @@
 - [x] FastAPI
 - [x] Streamlit
 - [x] Supabase
-- [ ] Redis
-- [ ] Docker
+- [x] Redis
+- [x] Docker
 - [ ] RAG
 - [ ] MCP
 - [ ] Multi Agent
