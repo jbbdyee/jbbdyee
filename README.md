@@ -18,6 +18,7 @@
 - [x] Python
 - [x] FastAPI
 - [x] Streamlit
+- [x] PostgreSQL
 - [x] Supabase
 - [x] Redis
 - [x] Docker
