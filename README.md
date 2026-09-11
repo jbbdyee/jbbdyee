@@ -1,17 +1,19 @@
 ### 안녕하세요 jbbdyee 입니다.
 
-현재 AI 멀티 에이전트 오케스트레이션 개발자를 목표로 공부하고 있습니다.  
+현재 AI 멀티 에이전트 오케스트레이션 개발자를 목표로 공부하고 있습니다.
+
 ### 📌 Projects & Learning
 
-- 개인 프로젝트  
-[ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — (자연어 기반 AI 브이로그 편집기)  
+* 개인 프로젝트  
+  [ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 자연어 기반 AI 브이로그 편집기
 
-- 팀 프로젝트  
-[ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — (AI 기반 맞춤형 육아 지원 서비스)  
-[airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — (실시간 항공권 예매 시스템  
+* 팀 프로젝트  
+  [ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — AI 기반 맞춤형 육아 지원 서비스  
+  [airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 실시간 항공권 예매 시스템
 
-- 학습 자료  
-[ai-development-journey](https://github.com/jbbdyee/ai-development-journey) — 기술 블로그와 연계한 AI 개발 학습 기록
+* 학습 자료  
+  [ai-development-journey](https://github.com/jbbdyee/ai-development-journey) — 기술 블로그와 연계한 AI 개발 학습 기록  
+  [ai-agent-learning](https://github.com/jbbdyee/ai-agent-learning) — LLM · RAG · MCP · AI Agent 학습 및 실습 기록
 
 프로젝트 구현과 학습 기록을 통해 AI 개발자로 성장하는 과정을 정리하고 있습니다.
 
@@ -20,18 +22,24 @@
 ## 🛠 Tech Stack
 
 ### Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+
+### AI & Agent
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square\&logo=ollama\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 ### UI & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
