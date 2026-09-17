@@ -47,3 +47,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
+---
+
+## 📚 Learning
+
+[ai-development-journey](https://github.com/jbbdyee/ai-development-journey) — 기술 블로그와 연계한 AI 개발 학습 기록  
+[ai-agent-learning](https://github.com/jbbdyee/ai-agent-learning) — LLM · RAG · MCP · AI Agent 학습 및 실습 기록
