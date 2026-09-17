@@ -14,6 +14,9 @@
 * 학습 자료  
   [ai-development-journey](https://github.com/jbbdyee/ai-development-journey) — 기술 블로그와 연계한 AI 개발 학습 기록  
   [ai-agent-learning](https://github.com/jbbdyee/ai-agent-learning) — LLM · RAG · MCP · AI Agent 학습 및 실습 기록
+  
+* 미니 프로젝트  
+  [ai-mini-projects](https://github.com/jbbdyee/ai-mini-projects) — 배운 AI 기술을 직접 적용한 소규모 프로젝트 모음
 
 프로젝트 구현과 학습 기록을 통해 AI 개발자로 성장하는 과정을 정리하고 있습니다.
 
@@ -41,5 +44,10 @@
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)  
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
