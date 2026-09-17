@@ -5,18 +5,14 @@
 ### 📌 Projects & Learning
 
 * 개인 프로젝트  
-  [ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 자연어 기반 AI 브이로그 편집기
+[ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 자연어 기반 AI 브이로그 편집기
 
 * 팀 프로젝트  
-  [ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — AI 기반 맞춤형 육아 지원 서비스  
-  [airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 실시간 항공권 예매 시스템
+[ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — AI 기반 맞춤형 육아 지원 서비스  
+[airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 실시간 항공권 예매 시스템
 
-* 학습 자료  
-  [ai-development-journey](https://github.com/jbbdyee/ai-development-journey) — 기술 블로그와 연계한 AI 개발 학습 기록  
-  [ai-agent-learning](https://github.com/jbbdyee/ai-agent-learning) — LLM · RAG · MCP · AI Agent 학습 및 실습 기록
-  
 * 미니 프로젝트  
-  [ai-mini-projects](https://github.com/jbbdyee/ai-mini-projects) — 배운 AI 기술을 직접 적용한 소규모 프로젝트 모음
+[ai-mini-projects](https://github.com/jbbdyee/ai-mini-projects) — 배운 AI 기술을 직접 적용한 소규모 프로젝트 모음
 
 프로젝트 구현과 학습 기록을 통해 AI 개발자로 성장하는 과정을 정리하고 있습니다.
 
