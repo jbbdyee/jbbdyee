@@ -52,4 +52,4 @@
 ## 📚 Learning
 
 [ai-development-journey](https://github.com/jbbdyee/ai-development-journey) — 기술 블로그와 연계한 AI 개발 학습 기록  
-[ai-agent-learning](https://github.com/jbbdyee/ai-agent-learning) — LLM · RAG · MCP · AI Agent 학습 및 실습 기록
+[ai-multi-agent-lab](https://github.com/jbbdyee/ai-agent-learning) — LLM·RAG·Memory·Tool부터 Multi-Agent까지 확장하는 AI Agent 실습 기록
