@@ -55,7 +55,7 @@
 
 ## 📚 Learning
 
-[ai-development-journey](https://github.com/jbbdyee/ai-development-journey) — 기술 블로그와 연계한 AI 개발 학습 기록  
-[ai-multi-agent-lab](https://github.com/jbbdyee/ai-agent-learning) — LLM·RAG·Memory·Tool부터 Multi-Agent까지 확장하는 AI Agent 실습 기록  
-[ai-engineering-lab](https://github.com/jbbdyee/ai-engineering-lab) — AI Agent·Workflow·DevOps 등 AI 엔지니어링 기술을 학습하는 실습 기록
+[ai-engineering-lab](https://github.com/jbbdyee/ai-engineering-lab) — 현재 수업의 AI Agent·Workflow·DevOps 실습  
+[aidevs](https://github.com/jbbdyee/aidevs) — 이전 수업의 AI 개발 학습 기록  
+[ai-multi-agent-lab](https://github.com/jbbdyee/ai-multi-agent-lab) — LLM·RAG·MCP·Multi-Agent 실습
 
