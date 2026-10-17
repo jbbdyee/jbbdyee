@@ -1,7 +1,7 @@
 ## 📌 Projects & Learning
 
 * 개인 프로젝트  
-[ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 자연어 기반 AI 브이로그 편집기
+[ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 촬영 중 남긴 음성 메모로 원하는 장면을 찾아 클립으로 만드는 AI 편집기
 
 * 팀 프로젝트  
 [ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 투자 리포트·사용자 승인 모의매매 서비스  
