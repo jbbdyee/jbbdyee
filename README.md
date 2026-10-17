@@ -1,7 +1,5 @@
 ### 안녕하세요 jbbdyee 입니다.
 
-현재 AI 멀티 에이전트 오케스트레이션 개발자를 목표로 공부하고 있습니다.
-
 ### 📌 Projects & Learning
 
 * 개인 프로젝트  
@@ -11,8 +9,6 @@
 [ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 투자 리포트·사용자 승인 모의매매 서비스  
 [ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — 싱글 에이전트 기반 육아 기록·맞춤 정보 서비스  
 [airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 항공편 검색·예약·운영 및 AI 여행 상담 서비스
-
-프로젝트 구현과 학습 기록을 통해 AI 개발자로 성장하는 과정을 정리하고 있습니다.
 
 ---
 
