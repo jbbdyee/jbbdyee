@@ -12,9 +12,6 @@
 [ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — 싱글 에이전트 기반 육아 기록·맞춤 정보 서비스  
 [airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 항공편 검색·예약·운영 및 AI 여행 상담 서비스
 
-* 미니 프로젝트  
-[ai-mini-projects](https://github.com/jbbdyee/ai-mini-projects) — 배운 AI 기술을 직접 적용한 소규모 프로젝트 모음
-
 프로젝트 구현과 학습 기록을 통해 AI 개발자로 성장하는 과정을 정리하고 있습니다.
 
 ---
@@ -55,7 +52,10 @@
 
 ## 📚 Learning
 
-[ai-engineering-lab](https://github.com/jbbdyee/ai-engineering-lab) — 현재 수업의 AI Agent·Workflow·DevOps 실습  
-[aidevs](https://github.com/jbbdyee/aidevs) — 이전 수업의 AI 개발 학습 기록  
+**현재 수업**  
+[ai-engineering-lab](https://github.com/jbbdyee/ai-engineering-lab) — AI Agent·Workflow·DevOps 실습
+
+<sub>이전 수업</sub>  
+[aidevs](https://github.com/jbbdyee/aidevs) — AI 개발 학습 기록  
 [ai-multi-agent-lab](https://github.com/jbbdyee/ai-multi-agent-lab) — LLM·RAG·MCP·Multi-Agent 실습
 
