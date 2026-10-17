@@ -7,7 +7,8 @@
 * 개인 프로젝트  
 [ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 자연어 기반 AI 브이로그 편집기
 
-* 팀 프로젝트  
+* 팀 프로젝트
+[ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 AI 리포트와 모의 자동매매 서비스  
 [ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — AI 기반 맞춤형 육아 지원 서비스  
 [airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 실시간 항공권 예매 시스템
 
