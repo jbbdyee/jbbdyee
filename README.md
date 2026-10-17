@@ -8,7 +8,7 @@
 [ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 자연어 기반 AI 브이로그 편집기
 
 * 팀 프로젝트  
-[ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 AI 리포트와 모의 자동매매 서비스  
+[ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 투자 리포트와 사용자 승인 기반 모의매매 서비스  
 [ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — AI 기반 맞춤형 육아 지원 서비스  
 [airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 실시간 항공권 예매 시스템
 
@@ -36,12 +36,15 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square\&logo=ollama\&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### UI & Tools
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square)
 
 ### DevOps
 
