@@ -1,7 +1,7 @@
 ## 📌 Projects & Learning
 
 * 개인 프로젝트  
-[ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 사용자 의도와 취향을 반영해 브이로그 제작을 돕는 멀티 에이전트 AI 편집기
+[ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 사용자 의도·취향을 반영한 브이로그 제작용 멀티 에이전트 AI 편집기
 
 * 팀 프로젝트  
 [ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 투자 리포트·사용자 승인 모의매매 서비스  
