@@ -1,6 +1,4 @@
-### 안녕하세요 jbbdyee 입니다.
-
-### 📌 Projects & Learning
+## 📌 Projects & Learning
 
 * 개인 프로젝트  
 [ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 자연어 기반 AI 브이로그 편집기
@@ -48,10 +46,12 @@
 
 ## 📚 Learning
 
-**현재 수업**  
+**현재 수업**
+
 [ai-engineering-lab](https://github.com/jbbdyee/ai-engineering-lab) — AI Agent·Workflow·DevOps 실습
 
-<sub>이전 수업</sub>  
+**완료한 수업**
+
 [aidevs](https://github.com/jbbdyee/aidevs) — AI 개발 학습 기록  
 [ai-multi-agent-lab](https://github.com/jbbdyee/ai-multi-agent-lab) — LLM·RAG·MCP·Multi-Agent 실습
 
