@@ -8,9 +8,9 @@
 [ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 자연어 기반 AI 브이로그 편집기
 
 * 팀 프로젝트  
-[ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 투자 리포트와 사용자 승인 기반 모의매매 서비스  
-[ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — AI 기반 맞춤형 육아 지원 서비스  
-[airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 실시간 항공권 예매 시스템
+[ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 투자 리포트·사용자 승인 모의매매 서비스  
+[ai-baby-care-team-project](https://github.com/jbbdyee/ai-baby-care-team-project) — AI 에이전트 육아 기록·맞춤 정보 제공 서비스  
+[airline-reservation-team-project](https://github.com/jbbdyee/airline-reservation-team-project) — 항공편 검색·예약·운영 및 AI 여행 상담 서비스
 
 * 미니 프로젝트  
 [ai-mini-projects](https://github.com/jbbdyee/ai-mini-projects) — 배운 AI 기술을 직접 적용한 소규모 프로젝트 모음
