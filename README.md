@@ -1,7 +1,9 @@
 ## 📌 Projects & Learning
 
 * 개인 프로젝트  
+[Tokenly](https://github.com/jbbdyee/Tokenly) — AI 코딩 도구 사용 한도·시스템 상태를 실시간으로 확인하는 macOS 메뉴바 앱  
 [ai-vlog-editor](https://github.com/jbbdyee/ai-vlog-editor) — 사용자 의도·취향을 반영한 브이로그 제작용 멀티 에이전트 AI 편집기
+
 
 * 팀 프로젝트  
 [ai-paper-trading-team-project](https://github.com/jbbdyee/ai-paper-trading-team-project) — 멀티 에이전트 투자 리포트·사용자 승인 모의매매 서비스  
@@ -32,8 +34,10 @@
 ### UI & Tools
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square)
 
